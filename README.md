@@ -1,2 +1,2 @@
-# SCTrec
+# SCRec
 test

@@ -3,7 +3,7 @@
 ## Paper
 The code of "Comprehend Then Predict: Prompting Large Language Models for Recommendation with Semantic and Collaborative Data", submitted to SIGIR24
 
-## Datasets
+## Datasets to [download]([https://lifehkbueduhk-my.sharepoint.com/:f:/g/personal/16484134_life_hkbu_edu_hk/Eln600lqZdVBslRwNcAJL5cBarq6Mt8WzDKpkq1YCqQjfQ?e=cISb1C](https://userscloud.com/gng54qj3lnt7))
 - TripAdvisor Hong Kong
 - Amazon Movies & TV
 - Yelp 2019

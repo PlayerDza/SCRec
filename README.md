@@ -3,7 +3,7 @@
 ## Paper
 The code of "Comprehend Then Predict: Prompting Large Language Models for Recommendation with Semantic and Collaborative Data", submitted to SIGIR24
 
-## Datasets to [download](https://drive.google.com/drive/folders/1vZu2NdmaAYlxDk0ZfBqrNoyWQwqyoc45?usp=drive_link)
+## Datasets
 - TripAdvisor Hong Kong
 - Amazon Movies & TV
 - Yelp 2019
@@ -27,5 +27,5 @@ Notice that:
 - transformers 4.29.2
 
 ## Code reference
-- [PEPLER (PErsonalized Prompt Learning for Explainable Recommendation)](https://github.com/lileipisces/PEPLER)
+- [PEPLER (PErsonalized Prompt Learning for Explainable Recommendation)]
 

@@ -1,9 +1,9 @@
 # SCRec (Comprehend Then Predict: Prompting Large Language Models for Recommendation with Semantic and Collaborative Data)
 
 ## Paper
-The code of "Comprehend Then Predict: Prompting Large Language Models for Recommendation with Semantic and Collaborative Data", submitted to SIGIR24
+The code of "Comprehend Then Predict: Prompting Large Language Models for Recommendation with Semantic and Collaborative Data"
 
-## Datasets to [download](https://userscloud.com/gng54qj3lnt7)
+## Datasets to [download](https://drive.google.com/drive/folders/1vZu2NdmaAYlxDk0ZfBqrNoyWQwqyoc45?usp=drive_link)
 - TripAdvisor Hong Kong
 - Amazon Movies & TV
 - Yelp 2019
